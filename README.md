@@ -1,4 +1,4 @@
-# Example 1: Adam cPINN experiments
+# Adam cPINN experiments
 
 This directory publishes the Adam-optimized conservative physics-informed neural network (cPINN) experiments for Example 1. Each case models the same two-subdomain problem with a different moving interface:
 
